@@ -1,0 +1,163 @@
+# Max2Mtl Version 4.0 Mar 10th, 2001
+#
+newmtl e_coat_lining_mtl-fx
+Ka  0.4 0.4 0.4
+Kd  1.0 1.0 1.0
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl e_coat_mtl-fx
+Ka  0.4 0.4 0.4
+Kd  1.0 1.0 1.0
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl g_turn_shoulder-fx
+Ka  0.4 0.4 0.4
+Kd  1.0 1.0 1.0
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl h_sleeve_mtl-fx
+Ka  0.4 0.4 0.4
+Kd  1.0 1.0 1.0
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl i_turn_hand_r_mtl-fx
+Ka  0.4 0.4 0.4
+Kd  1.0 1.0 1.0
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl j_turn_hand_l_mtl-fx
+Ka  0.4 0.4 0.4
+Kd  1.0 1.0 1.0
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl b_head_b_mtl-fx
+Ka  0.4 0.4 0.4
+Kd  1.0 1.0 1.0
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl b_line_mtl-fx
+Ka  0.4 0.4 0.4
+Kd  1.0 1.0 1.0
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl a_head_a_mtl-fx
+Ka  0.4 0.4 0.4
+Kd  1.0 1.0 1.0
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl c_head_c_mtl-fx
+Ka  0.4 0.4 0.4
+Kd  1.0 1.0 1.0
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl d_onepiece_line_mtl-fx
+Ka  0.4 0.4 0.4
+Kd  1.0 1.0 1.0
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl d_onepiece_mtl-fx
+Ka  0.4 0.4 0.4
+Kd  1.0 1.0 1.0
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl k_skin_mtl-fx
+Ka  0.4 0.4 0.4
+Kd  1.0 1.0 1.0
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl f_zangetsu_b_mtl-fx
+Ka  0.4 0.4 0.4
+Kd  1.0 1.0 1.0
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl m_zangetsu_a_mtl-fx
+Ka  0.4 0.4 0.4
+Kd  1.0 1.0 1.0
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl l_zangetsu_c_mtl-fx
+Ka  0.4 0.4 0.4
+Kd  1.0 1.0 1.0
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl a_grot_teeth_mtl-fx
+Ka  0.4 0.4 0.4
+Kd  1.0 1.0 1.0
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl c_grot_body_mtl-fx
+Ka  0.4 0.4 0.4
+Kd  1.0 1.0 1.0
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl a_grot_eye_mtl-fx
+Ka  0.4 0.4 0.4
+Kd  1.0 1.0 1.0
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl l_grot_hand-fx
+Ka  0.4 0.4 0.4
+Kd  1.0 1.0 1.0
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  10.0
+illum 2
+#
+# EOF
